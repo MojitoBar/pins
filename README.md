@@ -1,5 +1,5 @@
 # 프로젝트 소개
-![인트로](https://github.com/MojitoBar/pins/assets/16567811/10a7eb26-7d01-453e-895a-d437319cd7b7)
+![intro](https://github.com/MojitoBar/pins/assets/16567811/e088d4de-4b83-47f2-b7f4-271edeaf4be5)
 
 지도 기반 SNS 서비스를 개발함으로써 다양한 기술의 통합적 역량을 높이고자 시작한 프로젝트입니다. <br>
 이 프로젝트의 핵심은 사용자가 지도에 핀을 생성하여 커뮤니티와 소통하는 것입니다.
